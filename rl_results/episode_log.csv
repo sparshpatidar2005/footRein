@@ -1,0 +1,2 @@
+timestamp,mode,passes_attempted,passes_completed,interceptions,goals_A,goals_B,reward_sum,out_value,goal_status
+2026-10-27T13:55:53,q_learning,8,0,6,0,1,-6.0,True,Nil

@@ -1,0 +1,6 @@
+Report created: 2026-10-27T13:44:48.432749
+Q-learning updates: 48
+Stored states: 36
+Reward history points: 22
+TD-error history points: 22
+Note: Q-table values and training diagnostics do not alone prove improved match performance.
